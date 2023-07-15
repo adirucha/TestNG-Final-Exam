@@ -1,4 +1,4 @@
-page\ValidateUserAddCategory.class
 page\DuplicateValues.class
 util\BrowserFactory.class
 page\BasePage.class
+page\ValidateUserAddCategory.class
